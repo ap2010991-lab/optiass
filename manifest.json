@@ -1,0 +1,10 @@
+{
+    "name": "OptiAss - AI Reminder Assistant",
+    "short_name": "OptiAss",
+    "description": "AI-powered reminder assistant that never lets you forget",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a1a",
+    "theme_color": "#0a0a1a",
+    "icons": []
+}
